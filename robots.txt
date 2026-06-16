@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://phealice.github.io/sitemap.xml
