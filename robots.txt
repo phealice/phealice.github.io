@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://phealice.github.io/al-folio/sitemap.xml
+Sitemap: https://phealice.github.io/sitemap.xml
