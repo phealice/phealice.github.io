@@ -28,6 +28,9 @@ latest_posts:
 ---
 
 Hi I'm Alice ! 
+
 I am an AI and Robotics Engineer with a strong background in machine learning, computer vision, and autonomous systems. I hold an engineering degree from ENSTA Paris and recently completed a PhD at CEA-List, where I specialized in deep learning for visual perception. My research focused on open-vocabulary object detection from 3D CAD models, combining computer vision, 3D understanding, and foundation models to build robust systems capable of generalizing to unseen objects. 
+
 Throughout my work, I have designed, implemented, and evaluated state-of-the-art deep learning models using Python, PyTorch, and TensorFlow. Beyond research, I enjoy turning innovative ideas into practical solutions. My experience spans the full AI development lifecycle, from data processing and model training to software integration and deployment. 
+
 I am particularly interested in the intersection of computer vision and robotics, and in building intelligent systems that operate reliably in real-world environments. I am passionate about solving complex technical challenges, learning new technologies, and developing AI systems that create meaningful impact !
